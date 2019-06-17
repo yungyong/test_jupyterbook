@@ -4,8 +4,8 @@ kernel_name: python3
 has_widgets: false
 title: 'Searching your book'
 prev_page:
-  url: /features/citations
-  title: 'Citations and bibliographies'
+  url: /features/interactive_cells
+  title: 'Adding interactivity to your book pages'
 next_page:
   url: /features/limits
   title: 'Feature Limits'
