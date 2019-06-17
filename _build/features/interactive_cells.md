@@ -9,8 +9,8 @@ prev_page:
   url: /features/interact
   title: 'Connecting content with JupyterHub and Binder'
 next_page:
-  url: /features/citations
-  title: 'Citations and bibliographies'
+  url: /features/search
+  title: 'Searching your book'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
 
